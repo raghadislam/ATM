@@ -1,0 +1,3 @@
+Raghad Islam, 10/24, 7999467, 9246593901921966, 133, 05/07/23, Withdraw, 400, 05/07/23, Withdraw, 555, 05/07/23, deposit,
+Amir Shetaia, 11/24, 9000100, 1234561234561233, 100, 05/07/23, Transferred to you, 200, 30/06/23, Withdraw, 200, 30/06/23, Withdraw,
+Mazen Mosbah, 12/24, 9000000, 1234561234561234, 700, 20/01/20, Withdraw, 50000, 20/01/20, deposit, 50000, 20/01/20, deposit,
