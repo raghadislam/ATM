@@ -1,8 +1,4 @@
-# project flowchart
-
-![image](https://github.com/raghadislam/ATM_machine_project/assets/112733878/5cb67134-af19-46ee-b04f-f1beae02cc0d)
-
-# supported functions
+# Project Description
 payment application enable the user to:
 
 1- Withdraw
@@ -14,6 +10,10 @@ payment application enable the user to:
 4- see Mini Statement
 
 5- See account details (balance, Card expiraion date, name, last transactions...)
+
+# project flowchart
+
+![image](https://github.com/raghadislam/ATM_machine_project/assets/112733878/5cb67134-af19-46ee-b04f-f1beae02cc0d)
 
 # File Handling
 I used it to improve the synchronization of any changes made by the user and automatically modify them in their information stored in the databases file, so after the application is closed all the changes is saved includig: balance, last transactions, etc...
